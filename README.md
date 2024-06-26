@@ -1,2 +1,3 @@
 # Amazon_clone
-This is a demonstration of clone of amazon.com webpage
+This is a demonstration of clone of amazon.com webpage.
+Author - Kavya Sree
